@@ -14,7 +14,7 @@
     "vaccine slots",
     "vaccine availability"
   ],
-  
+
   "author": "deepak singh",
   "license": "MIT",
   "dependencies": {
@@ -26,6 +26,11 @@
     "nodemon": "^2.0.12",
     "tty-table": "^4.1.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepsingh9868/covid19-vaccine-slots.git"
+  },
+  "homepage": "https://github.com/deepsingh9868/covid19-vaccine-slots.git#readme",
   "bin": {
     "covid19": "./bin/index.js"
   }
