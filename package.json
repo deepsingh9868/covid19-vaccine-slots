@@ -1,0 +1,32 @@
+{
+  "name": "covid19-vaccine-slots-india",
+  "version": "1.0.0",
+  "description": "cowin vaccination centers and slots to know  about your covid19 vaccine availability",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covid19 vaccine india",
+    "cowin vaccine slots",
+    "covid19 vaccine centers",
+    "covid19",
+    "vaccine slots",
+    "vaccine availability"
+  ],
+  
+  "author": "deepak singh",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2",
+    "node-notifier": "^10.0.0",
+    "nodemon": "^2.0.12",
+    "tty-table": "^4.1.5"
+  },
+  "bin": {
+    "covid19": "./bin/index.js"
+  }
+}
