@@ -2,9 +2,10 @@
 
 
 Get all your information about covid19 vaccine slots and center in india 
+<h2> #Prerequisite </h2>
+<p> nodejs </p>
 
-
-<h2>#Installation </h2>
+<h2 style="margin-top: 20px">#Installation </h2>
 
 `npm i covid19-vaccine-slots-india`
 
@@ -12,33 +13,48 @@ Get all your information about covid19 vaccine slots and center in india
 <h2>#Commands</h2>
 <div>
 
+<div>
+
 `covid19 states`    
-This will list down all the states in india with their respective stateId which we gonna need to find districts
+<p>This will list down all the states in india with their respective stateId which we gonna need to find districts</p>
 <img src="https://github.com/deepsingh9868/covid19-vaccine-slots/blob/main/util/images/covid19%20states.jpg" alt="states">
 
+</div>
+
+<div>
+
+<p>This will list down all the districts of the states which you have choose</p>
+
+`covid19 districts <stateId>` 
 
 
-`covid19 districts <stateId>` This will list down all the districts of the states which you have choose 
 <img src="https://github.com/deepsingh9868/covid19-vaccine-slots/blob/main/util/images/covid19%20districts.jpg" alt="districts">
 
+</div>
 
+<div>
 GET BORED???
 
-wait just the last command to get all  your vaccine slot and centers info 
+<p>wait just the last command to get all  your vaccine slot and centers info </p>
 
-`covid19 slots <districtsId>` Now finally this will list down all the vaccination centers in your districts
+`covid19 slots <districtsId>` <p>Now finally this will list down all the vaccination centers in your districts</p>
 
 <img src="https://github.com/deepsingh9868/covid19-vaccine-slots/blob/main/util/images/covid19%20slots.jpg"  alt="covid19 vaccine searchByDistrictsId">
 
+</div>
 
+<div>
 
 <h3 style="color:red">Well this is too much right.....What if  we just type my area pincode and get all centers near me?</h3>
 
 
 <h4>Here we go again!!<h4>
 
-`covid19 pincode <your_pincode>` Now this is pretty straight forward . isn't??
+`covid19 pincode <your_pincode>` <p> Now this is pretty straight forward . isn't??</p>
+
 <img src="https://github.com/deepsingh9868/covid19-vaccine-slots/blob/main/util/images/covid19%20slots%20pincode.jpg" alt="covid19 vaccine searchbyPincode">
+
+</div>
 <div>
 
 
