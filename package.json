@@ -1,6 +1,6 @@
 {
   "name": "covid19-vaccine-slots-india",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "cowin vaccination centers and slots to know  about your covid19 vaccine availability",
   "main": "bin/index.js",
   "scripts": {
