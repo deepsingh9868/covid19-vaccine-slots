@@ -132,7 +132,7 @@ function slots(districtid){
     .catch(function(error){
         console.log(error);
     })
-}
+}   
 
 
 // async function slots(districtid) {
