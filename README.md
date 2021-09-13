@@ -1,5 +1,12 @@
 # A covid19 vaccine slots availability tracker
 
+<p align="center">
+  <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />          
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  <img src="https://img.shields.io/badge/COVID19-API-brightgreen.svg" alt="">
+  </p>
+  
+  
 
 Get all your information about covid19 vaccine slots and center in india 
 <h2> #Prerequisite </h2>
@@ -59,6 +66,25 @@ GET BORED???
 
 </div>
 <div>
+  
+  
+## **:handshake: Contributing**
+
+- Fork it!
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -am 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
+
+---
+  
+ 
+
+### **:heart: Show your support**
+
+Please :star: this repository if you like it or this project helped you!\
+Feel free to open issues or submit pull-requests to help me improving my work.
+
 
 
 </div>
