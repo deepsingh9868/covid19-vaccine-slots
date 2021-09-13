@@ -55,7 +55,7 @@ GET BORED???
 
 <div>
 
-<h3 style="color:red">Well this is too much right.....What if  we just type my area pincode and get all centers near me?</h3>
+<img src="https://github.com/deepsingh9868/covid19-vaccine-slots/blob/main/util/images/pincode.jpg" alt="vaccine">
 
 
 <h4>Here we go again!!<h4>
