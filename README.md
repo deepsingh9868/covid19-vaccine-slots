@@ -7,7 +7,7 @@ Get all your information about covid19 vaccine slots and center in india
 
 <h2 style="margin-top: 20px">#Installation </h2>
 
-<h3> <b><Install this globally by using this command and run in your cmd</b> </h3>
+<img src = "https://github.com/deepsingh9868/covid19-vaccine-slots/blob/main/util/images/guide.jpg">
 
 `npm i -g covid19-vaccine-slots-india`
 
