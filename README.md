@@ -4,6 +4,12 @@
   <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />          
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   <img src="https://img.shields.io/badge/COVID19-API-brightgreen.svg" alt="">
+  
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+  [![Linux Build][ci-image]][ci-url]
+  [![Windows Build][appveyor-image]][appveyor-url]
+  [![Test Coverage][coveralls-image]][coveralls-url]
   </p>
   
   
